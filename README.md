@@ -10,7 +10,7 @@ The purpose of this educational assignment was to practice object-relational map
 5. User models are synced to MySQL db when server is started
 6. When the user tests routes in insomnia, data is displayed in JSON format
 7. When the user tests GET, POST, PUT, and DELETE routes, data is manipulated in the database
-8. User can go back to CLI or end
+8. User can go back to CLI, continue testing, or end
 
 ![Screenshot of page](assets/pic2.PNG)
 ![Screenshot of page](assets/pic1.PNG)
