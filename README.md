@@ -13,8 +13,11 @@ The purpose of this educational assignment was to practice object-relational map
 8. User can go back to CLI, continue testing, or end
 
 ![Screenshot of page](assets/pic2.PNG)
-![Screenshot of page](assets/pic1.PNG)
 ![Screenshot of page](assets/pic3.PNG)
+![Screenshot of page](assets/pic4.PNG)
+![Screenshot of page](assets/pic1.PNG)
+![Screenshot of page](assets/pic5.PNG)
+![Screenshot of page](assets/pic6.PNG)
 
 ## Built With:
 
